@@ -84,8 +84,10 @@ public class InstanciacionReferenciaYComparacion {
         //    Comenta la línea después de probar, porque lanzará un error.
 
         // Tu código aquí ↓
-        Pelicula p3 ps=null();
-        System.out.println(p3==consola);
+        Pelicula p3=null;
+        System.out.println(p3);
+        p3.getTitulo();
+        //comentando la lineas.si da eeror.
 
     }
 }
