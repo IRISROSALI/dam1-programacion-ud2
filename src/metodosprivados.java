@@ -1,3 +1,5 @@
+import utilidades.CuentaBancaria;
+
 public class metodosprivados{
     public static void main(String[] args) {
         CuentaBancaria cuenta = new CuentaBancaria();
